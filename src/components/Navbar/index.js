@@ -14,7 +14,7 @@ const Navbar = () => {
   return (
     <Nav>
       <NavbarContainer>
-        <NavLogo>The Wedding</NavLogo>
+        <NavLogo>JJ</NavLogo>
         <MobileIcon>
           <FaBars />
         </MobileIcon>
